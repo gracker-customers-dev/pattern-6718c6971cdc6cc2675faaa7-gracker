@@ -1,0 +1,57 @@
+projectName: '<cybersecurity_conference> Recap: Key SEO Insights for <cybersecurity_role>'
+jsonFilePath: ./input.json
+baseUrl: sun.com
+portalHeading: Welcome to the Cybersecurity Conference Recap Portal
+portalDescription: >-
+  Dive into key SEO insights for cybersecurity roles, leveraging AI-driven
+  strategies to enhance your brand's visibility.
+portalTitle: 'Cybersecurity Conference Recap: Key SEO Insights'
+searchPlaceholder: Search for cybersecurity insights...
+useAlphabetsCategory: true
+homeLink: sun.com
+logoLink: /
+ctaText: Get Started
+aboutLink: https://sun.com/about/
+productsLink: https://sun.com/products/
+logoImgUrl: https://sun.com/_astro/logo-white.DuNP12gY_Z22gpAz.svg
+ctaLink: https://portal.gracker.ai/
+copyrightText: '&copy; Copyright 2024, Gracker. Made with <3 in San Francisco.'
+faviconUrl: https://sun.com/favicon.ico
+googleTagManagerId: GTM-MB8NQN6
+pagesTitle:
+  prefix: ''
+  suffix: ''
+categoryPagesTitle:
+  prefix: ''
+  suffix: ''
+templateRoot:
+  - ./templates
+  - ./templates
+homeTemplatePath: ./templates/homePageTemplate.ejs
+categoryTemplatePath: ./templates/categoryTemplate.ejs
+pageTemplatePath: ./templates/pagesTemplate.ejs
+outputDir: ./output
+socialLinks:
+  - platform: LinkedIn
+    url: https://www.linkedin.com/company/gracker-ai/
+  - platform: Twitter
+    url: https://x.com/grackerAI
+  - platform: Instagram
+    url: https://www.instagram.com/grackerai/
+theme:
+  primaryColor: '#000000'
+  secondaryColor: '#FFFFFF'
+  backgroundColor: '#F5F5F5'
+  textColor: '#333333'
+  accentColor: '#FF5733'
+fonts:
+  - family: Bricolage Grotesque
+    weights:
+      - 400
+      - 500
+      - 600
+  - family: Poppins
+    weights:
+      - 400
+      - 500
+      - 600
